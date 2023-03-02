@@ -1,13 +1,3 @@
-/**
-* Template Name: HeroBiz - v2.4.0
-* Template URL: https://bootstrapmade.com/herobiz-bootstrap-business-template/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
-
-/**
-* Check out variables.css for easy customization of colors, typography, and other repetitive properties
-*/
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
@@ -235,9 +225,9 @@ section {
   transition: all 0.5s;
   z-index: 997;
 }
-/*barra color*/
+/*header color azul*/
 .header.sticked {
-  background: var( --color-default);
+  background: var( --color-default); 
   /*
     background: #0F163A;
   */
